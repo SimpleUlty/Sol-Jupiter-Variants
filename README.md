@@ -9,11 +9,20 @@ Only three Jupiter textures have resolutions ranging from 7k to 8k, while most o
 the others are between 3k and 4k.
 
 # 7k-8k Textures resolution
- > Jupiter 1974
+<details>
+<summary>Jupiter_1974</summary>
+<img width="1405" height="1281" alt="Jupiter1974" src="https://github.com/user-attachments/assets/a9f8a9fb-a4b2-444c-bb79-c20361f8f856" />
+</details>
  
- > Jupiter 1979 Voyager 2
+<details>
+<summary>Jupiter_1979_Voyager_2</summary>
+<img width="1289" height="1234" alt="JupiterVoyager1979" src="https://github.com/user-attachments/assets/c83696c3-c874-447b-a3a2-b9e0dfc5196b" />
+</details>
  
- > Jupiter 2019
+<details>
+<summary>Jupiter_2019</summary>
+<img width="1307" height="1193" alt="jupiter2019" src="https://github.com/user-attachments/assets/5d2e13b5-4f8b-4d1a-88c8-96a77b9c1ce4" />
+</details>
 
 # Step-by-step
 Download the Jupiter variants you want and place them in the Sol-Addons folder.
@@ -21,7 +30,9 @@ Download the Jupiter variants you want and place them in the Sol-Addons folder.
   |
   Sol-Addons
   |
-  Jupiter_Variants_Example
+  Jupiter_Voyager2_1979
+
+  for example
 
 # CREDIT
 
