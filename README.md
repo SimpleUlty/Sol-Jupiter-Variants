@@ -1,3 +1,5 @@
+<img width="1289" height="290" alt="jupiterband" src="https://github.com/user-attachments/assets/cdaa0d0b-d6da-49d6-a924-e2f5e84115c9" />
+
 # Sol-Jupiter-Variants
 This mod adds different Jupiter textures from various years. 
 It is only compatible with the Sol mod.
