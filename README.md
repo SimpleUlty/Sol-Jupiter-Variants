@@ -2,7 +2,7 @@
 
 # Sol-Jupiter-Variants
 This mod adds different Jupiter textures from various years. 
-It is only compatible with the Sol mod.
+It is only compatible with the Sol mod with mirage.
 
 It's important to note that not all textures are at the default resolution of 16k. 
 Only three Jupiter textures have resolutions ranging from 7k to 8k, while most of
