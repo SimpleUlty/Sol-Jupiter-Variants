@@ -28,6 +28,9 @@ the others are between 3k and 4k.
 </details>
 
 # Step-by-step
+!!IMPORTANT!!
+If you don't have a folder named Sol-Addons, you'll need to create one.
+
 Download the Jupiter variants you want and place them in the Sol-Addons folder.
 > GameData
   |
