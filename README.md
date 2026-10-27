@@ -49,6 +49,6 @@ Download the Jupiter variants you want and place them in the Sol-Addons folder.
 
 **Jupiter 1974 made by SimpleUlty**
 
-**Jupiter 1979 Voyager 2 made by Björn Jónsson's**
+**Both Jupiter 1979 Voyager 1/2 made by Björn Jónsson's**
 
 **Jupiter 2019 made by NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)**
