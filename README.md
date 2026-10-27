@@ -14,9 +14,14 @@ the others are between 3k and 4k.
 <img width="1405" height="1281" alt="Jupiter1974" src="https://github.com/user-attachments/assets/a9f8a9fb-a4b2-444c-bb79-c20361f8f856" />
  https://drive.google.com/file/d/1me9mEJcm1o4xgxedFpoAWgXjZ1QmYpl3/view?usp=drive_link
 </details>
- 
+ <details>
+<summary>Jupiter_March_1979_Voyager_1</summary>
+<img width="785" height="759" alt="Jupiter_1979_Voyager_1" src="https://github.com/user-attachments/assets/be5141da-61a1-4da6-bb58-36201f56a3da" />
+https://drive.google.com/file/d/1_w2H9jt1Tc7HRgkC_WLkLRrG8U2nFe_S/view?usp=sharing
+</details>
+
 <details>
-<summary>Jupiter_1979_Voyager_2</summary>
+<summary>Jupiter_July_1979_Voyager_2</summary>
 <img width="1289" height="1234" alt="JupiterVoyager1979" src="https://github.com/user-attachments/assets/c83696c3-c874-447b-a3a2-b9e0dfc5196b" />
  https://drive.google.com/file/d/1ozQME8XCGp6l4TFuYiIYi8q9zRzOKMD_/view?usp=drive_link
 </details>
