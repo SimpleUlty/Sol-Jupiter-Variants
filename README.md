@@ -10,7 +10,7 @@ the others are between 3k and 4k.
 
 # 7k-8k Textures resolution
 <details>
-<summary>Jupiter_1974</summary>
+<summary>Jupiter_November_1974_Pioneer_11</summary>
 <img width="1405" height="1281" alt="Jupiter1974" src="https://github.com/user-attachments/assets/a9f8a9fb-a4b2-444c-bb79-c20361f8f856" />
  https://drive.google.com/file/d/1me9mEJcm1o4xgxedFpoAWgXjZ1QmYpl3/view?usp=drive_link
 </details>
@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1_w2H9jt1Tc7HRgkC_WLkLRrG8U2nFe_S/view?usp=shari
 </details>
  
 <details>
-<summary>Jupiter_2019</summary>
+<summary>Jupiter_June_2019</summary>
 <img width="1307" height="1193" alt="jupiter2019" src="https://github.com/user-attachments/assets/5d2e13b5-4f8b-4d1a-88c8-96a77b9c1ce4" />
  https://drive.google.com/file/d/1lWwIMEc-wKv_xynJTS1CvJutNN4OjRT7/view?usp=drive_link
 </details>
